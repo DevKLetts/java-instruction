@@ -1,0 +1,28 @@
+
+public class VariablesApp {
+	
+	public static void main(String[] args) {
+		System.out.println("Welcome to the variables app!");
+		// Declare and initialize variables
+		int age = 25;
+		double height = 5.9;
+		String name = "John Doe";
+
+		// Print the variables
+		System.out.println("Name: " + name);
+		System.out.println("Age: " + age);
+		System.out.println("Height: " + height);
+
+		// Perform some operations
+		int yearsToRetirement = 65 - age;
+		System.out.println("Years to retirement: " + yearsToRetirement);
+
+		double heightInCm = height * 100;
+		System.out.println("Height in cm: " + heightInCm);
+
+		String greeting = "Hello, my name is " + name;
+		System.out.println(greeting);
+
+	} // End of main method
+
+}

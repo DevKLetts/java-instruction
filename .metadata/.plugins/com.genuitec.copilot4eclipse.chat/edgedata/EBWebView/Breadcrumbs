@@ -1,0 +1,122 @@
+1:27:13 Tab25 StartNav204 #typed
+1:27:13 Tab25 FinishNav204
+1:27:13 Tab25 PageLoad
+1:27:16 Tab25 StartNav205 #typed
+1:27:16 Tab25 FinishNav205
+1:27:16 Tab25 PageLoad
+1:27:33 Tab25 StartNav206 #typed
+1:27:33 Tab25 FinishNav206
+1:27:33 Tab25 PageLoad
+1:27:33 Tab25 StartNav207 #typed
+1:27:33 Tab25 FinishNav207
+1:27:33 Tab25 PageLoad
+1:27:42 Tab25 StartNav208 #typed
+1:27:42 Tab25 FinishNav208
+1:27:42 Tab25 PageLoad
+1:27:47 Tab25 StartNav209 #typed
+1:27:47 Tab25 FinishNav209
+1:27:47 Tab25 PageLoad
+1:27:53 Tab25 StartNav210 #typed
+1:27:53 Tab25 FinishNav210
+1:27:53 Tab25 PageLoad
+1:27:55 Tab25 StartNav211 #typed
+1:27:55 Tab25 FinishNav211
+1:27:55 Tab25 PageLoad
+1:27:57 Tab25 StartNav212 #typed
+1:27:57 Tab25 FinishNav212
+1:27:57 Tab25 PageLoad
+1:27:58 Tab25 StartNav213 #typed
+1:27:58 Tab25 FinishNav213
+1:27:58 Tab25 PageLoad
+1:27:59 Tab25 StartNav214 #typed
+1:27:59 Tab25 FinishNav214
+1:27:59 Tab25 PageLoad
+1:28:00 Tab25 StartNav215 #typed
+1:28:00 Tab25 FinishNav215
+1:28:00 Tab25 PageLoad
+1:28:01 Tab25 StartNav216 #typed
+1:28:01 Tab25 FinishNav216
+1:28:01 Tab25 PageLoad
+1:28:01 Tab25 StartNav217 #typed
+1:28:01 Tab25 FinishNav217
+1:28:01 Tab25 PageLoad
+1:28:02 Tab25 StartNav218 #typed
+1:28:02 Tab25 FinishNav218
+1:28:02 Tab25 PageLoad
+1:28:05 Tab25 StartNav219 #typed
+1:28:05 Tab25 FinishNav219
+1:28:05 Tab25 PageLoad
+1:28:08 Tab25 StartNav220 #typed
+1:28:08 Tab25 FinishNav220
+1:28:08 Tab25 PageLoad
+1:28:11 Tab25 StartNav221 #typed
+1:28:11 Tab25 FinishNav221
+1:28:11 Tab25 PageLoad
+1:28:19 Tab25 StartNav222 #typed
+1:28:19 Tab25 FinishNav222
+1:28:19 Tab25 PageLoad
+1:28:51 Microsoft.Shutdown.OnWindowClosing
+1:28:51 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+1:28:51 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+1:28:51 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+1:28:51 Microsoft.Shutdown.TabStripModel.CloseAllTabs
+1:28:51 Microsoft.Shutdown.TabStripModel.CloseTabs
+1:28:51 Microsoft.Shutdown.TabStripModel.CloseTabs_EdgeBeforeClosingAllTabs
+1:28:51 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl
+1:28:51 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_TabClosable
+1:28:51 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosingAll
+1:28:51 Microsoft.Shutdown.TabStripModel.CloseWebContentses
+1:28:51 Microsoft.Shutdown.TabStripModel.CloseWebContentses_FastShutdown
+1:28:51 Microsoft.Shutdown.TabStripModel.ShouldRunUnloadListenerBeforeClosing_false
+1:28:51 Tab25 RenderProcessGone
+1:28:51 Microsoft.Shutdown.TabStripModel.RunUnloadListenerBeforeClosing_false
+1:28:51 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosedAll
+1:28:51 Microsoft.Shutdown.TabStripModel.SendDetachWebContentsNotifications
+1:28:51 Browser25 Close Tab25 at 0
+1:28:51 Tab25 WebContentsDestroyed
+1:28:51 Microsoft.Shutdown.OnWindowClosing
+1:28:51 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+1:28:51 Widget Closed: BrowserFrame
+1:28:51 Microsoft.Shutdown.OnWindowClosing
+1:28:51 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+1:28:51 Microsoft.Browser_Removed
+1:28:51 Microsoft.NewBrowser_Popup
+1:28:51 Microsoft.BrowserList.AddBrowser
+1:28:51 Browser31 Insert active Tab31 at 0
+1:28:51 Tab31 StartNav223 #auto_toplevel
+1:28:51 Tab31 StartNav224 #typed
+1:28:51 Tab31 FinishNav223
+1:28:51 Tab31 PageLoad
+1:28:51 Tab31 FinishNav224
+1:28:51 Tab31 PageLoad
+1:28:51 Tab31 StartNav225 #typed
+1:28:51 Tab31 FinishNav225
+1:28:51 Tab31 PageLoad
+1:28:59 Tab31 StartNav226 #typed
+1:28:59 Tab31 FinishNav226
+1:28:59 Tab31 PageLoad
+1:29:00 Tab31 StartNav227 #typed
+1:29:00 Tab31 FinishNav227
+1:29:00 Tab31 PageLoad
+1:29:01 Tab31 StartNav228 #typed
+1:29:01 Tab31 FinishNav228
+1:29:01 Tab31 PageLoad
+1:29:02 Tab31 StartNav229 #typed
+1:29:02 Tab31 FinishNav229
+1:29:02 Tab31 PageLoad
+1:29:03 Tab31 StartNav230 #typed
+1:29:03 Tab31 FinishNav230
+1:29:03 Tab31 PageLoad
+1:29:06 Tab31 StartNav231 #typed
+1:29:06 Tab31 FinishNav231
+1:29:06 Tab31 PageLoad
+1:30:07 Tab31 StartNav232 #typed
+1:30:07 Tab31 FinishNav232
+1:30:07 Tab31 PageLoad
+1:30:10 Tab31 StartNav233 #typed
+1:30:10 Tab31 FinishNav233
+1:30:10 Tab31 PageLoad
+2:26:11 Tab31 StartNav234 #typed
+2:26:11 Tab31 FinishNav234
+2:26:11 Tab31 PageLoad
+3:05:41 Microsoft.Shutdown.OnWindowClosing
