@@ -29,7 +29,7 @@ public class GuessingGame {
 		while (guess != randomNumber) {
 			guess = ConsoleUtil.promptInt("Enter your guess: ", MIN, MAX);
 			attempts++;
-			int diff = Math.abs(randomNumber - guess);
+			int diff = guess - randomNumber;
 				if (diff > 10) {
 					System.out.println("Way too high! Guess again."); 
 				} else if (diff > 0 ){
