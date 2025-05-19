@@ -155,6 +155,23 @@ public class ConsoleUtil {
 		return value;
 	}
 	
+	public static int promptBoolean(String prompt) {
+		String input = "";
+		boolean valid = false;
+		while (!valid) {
+			System.out.print(prompt);
+			input = sc.nextLine();
+			if (input.equalsIgnoreCase("y") || input.equalsIgnoreCase("y")) {
+				return 1;
+			} else if (input.equalsIgnoreCase("n") || input.equalsIgnoreCase("n")) {
+				return 0;
+			} else {
+				System.out.println("Invalid entry. Please enter 'y' or 'n'.");
+			}
+		}
+		return 0; // This line will never be reached
+	}
+	
 	public static void printHeader(String header, String sep) {
 		System.out.println(header);
 		//String banner = "\n" + game + " Game!\n";
